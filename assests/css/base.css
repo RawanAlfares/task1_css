@@ -1,0 +1,14 @@
+*{
+    margin :0;
+    text-decoration: none;
+}
+.container{
+    width: calc( 100% - 330px);
+    margin:auto;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 232.5px;
+  align-items: center;
+}

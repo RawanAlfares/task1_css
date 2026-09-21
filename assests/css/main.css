@@ -1,0 +1,35 @@
+.header {
+  margin: 21.84px 0px;
+}
+.sections ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 60px;
+}
+.icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+.base img{
+  width:100%;
+  position: relative;
+}
+.overlay img{
+  position: absolute;
+  top:86.68px;
+  /*height:891.66px;*/
+}
+.page2 .container {
+  display: flex;
+  flex-wrap: wrap;
+  gap:30px;
+  text-align:center;
+}
+.page2 p{
+  margin-top:23px;
+}
+.page2 {
+  margin-top:80px;
+}
